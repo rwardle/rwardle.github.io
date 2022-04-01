@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Richard Wardle
-url: www.richardwardle.com
+url: https://www.richardwardle.com
 github_username:  rwardle
 linkedin_username: richard-wardle
 

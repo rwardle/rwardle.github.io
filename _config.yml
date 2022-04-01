@@ -19,9 +19,9 @@ linkedin_username: richard-wardle
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+remote_theme: jekyll/minima@38a84a949f9753c4542e25f422935f59b4913053
 plugins:
-  - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

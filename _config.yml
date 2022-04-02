@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Richard Wardle
 url: https://www.richardwardle.com
-github_username:  rwardle
+github_username: rwardle
 linkedin_username: richard-wardle
 
 # Build settings

@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Richard Wardle
+tagline: Home # Appended to homepage title instead of site.description
 description: >- 
   Richard Wardle's personal website.
 url: https://www.richardwardle.com
